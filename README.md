@@ -1,5 +1,12 @@
 # 🎬 TMDB Movies App — Group Assignment
 
+🚨 Git Rules
+
+- Direct commits to `main` are not allowed
+- Every feature must be implemented in a separate branch
+- Every Pull Request must be reviewed by the teammate
+- PRs without approval cannot be merged
+
 ## 🎨 Design
 👉 https://www.figma.com/design/wNmnhNvAGFY75ZAZqMb3Iq/Movies-app--Community-
 
